@@ -1,0 +1,39 @@
+aid: notebooklm
+name: Google NotebookLM
+description: >-
+  Google NotebookLM is an AI-powered research and thinking partner that
+  helps users analyze, summarize, and explore sources such as documents,
+  PDFs, web pages, and notes. It leverages Google's Gemini models to ground
+  responses in user-provided source material, generating summaries, study
+  guides, FAQs, and Audio Overviews. NotebookLM does not currently expose
+  a public API; integration with the service is limited to the web interface
+  and supported Google Workspace contexts.
+type: Index
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - AI
+  - Research
+  - Knowledge Management
+  - Document Analysis
+  - Generative AI
+  - Google
+url: >-
+  https://raw.githubusercontent.com/api-evangelist/notebooklm/refs/heads/main/apis.yml
+created: '2026-05-11'
+modified: '2026-05-11'
+specificationVersion: '0.19'
+apis: []
+
+common:
+  - type: Website
+    url: https://notebooklm.google
+  - type: Documentation
+    url: https://support.google.com/notebooklm
+  - type: Sign Up
+    url: https://notebooklm.google.com
+  - type: Blog
+    url: https://blog.google/technology/ai/notebooklm-google-ai/
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
+# Note: no public API available for Google NotebookLM at this time.

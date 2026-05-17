@@ -29,7 +29,7 @@ common:
     url: https://notebooklm.google
   - type: Documentation
     url: https://support.google.com/notebooklm
-  - type: Sign Up
+  - type: SignUp
     url: https://notebooklm.google.com
   - type: Blog
     url: https://blog.google/technology/ai/notebooklm-google-ai/

@@ -29,11 +29,11 @@ common:
     url: https://notebooklm.google
   - type: Documentation
     url: https://support.google.com/notebooklm
-  - type: SignUp
+  - type: Signup
     url: https://notebooklm.google.com
   - type: Blog
     url: https://blog.google/technology/ai/notebooklm-google-ai/
-  - type: LLMsTxt
+  - type: LlmsText
     url: https://notebooklm.google/llms.txt
 maintainers:
   - FN: Kin Lane

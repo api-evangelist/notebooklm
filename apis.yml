@@ -25,6 +25,8 @@ specificationVersion: '0.19'
 apis: []
 
 common:
+  - type: DomainSecurity
+    url: security/notebooklm-domain-security.yml
   - type: Website
     url: https://notebooklm.google
   - type: Documentation

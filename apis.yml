@@ -22,6 +22,13 @@ accessModel:
   method: derived
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/notebooklm.png
 tags:
+  - Artificial Intelligence
+  - Research
+  - Knowledge-Management
+  - Document Analysis
+  - Generative AI
+  - Google
+tags_raw:
   - AI
   - Research
   - Knowledge Management

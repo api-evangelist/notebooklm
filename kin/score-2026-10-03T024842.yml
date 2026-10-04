@@ -1,0 +1,46 @@
+# Kin Score artifact — notebooklm — 2026-10-03T024842
+# The API Evangelist rating (https://github.com/api-evangelist/kin-score). Generated; do not edit.
+---
+kin_score:
+  slug: notebooklm
+  schema_version: 0.23.0
+  scored_at: '2026-10-03'
+  run_ts: 2026-10-03T024842
+  composite: 7.1
+  band: minimal
+  facets:
+    discoverability: 55.4
+    contract_quality: 0.0
+    contract_governance: 0.0
+    operational_transparency: 0.0
+    developer_ergonomics: 2.4
+    access_clarity: 13.2
+  agent_readiness:
+    score: 0.0
+    band: human-only
+    dimensions:
+      spec_presence: false
+      agentic_access: false
+      reversibility_documented: false
+      mcp_server: false
+      auth_clarity: false
+      idempotency: false
+      error_semantics: false
+      openapi_examples: false
+      rate_limit_signal: false
+      event_surface_described: false
+      agent_skills: false
+      well_known_catalog: false
+      consent_identity: false
+      agent_card: false
+      dry_run_mode: false
+      delegated_identity: false
+      protected_resource_metadata: false
+      dynamic_client_registration: false
+      agentic_commerce: false
+  regulatory:
+    applies: true
+    regime: Horizontal (data, software, accessibility, platform)
+    regime_id: horizontal
+    score: 5.5
+    matched_via: fallback

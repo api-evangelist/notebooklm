@@ -37,7 +37,7 @@ image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/notebooklm
 tags:
   - Artificial Intelligence
   - Research
-  - Knowledge-Management
+  - Knowledge Management
   - Document Analysis
   - Generative AI
   - Google
@@ -48,6 +48,7 @@ tags_raw:
   - Document Analysis
   - Generative AI
   - Google
+  - Knowledge-Management
 url: >-
 x-api-posture: no-product-api
 x-api-posture-basis: observed
